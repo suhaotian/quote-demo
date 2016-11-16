@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import Form from './form'
 import Footer from './footer'
-
 import './css/screen.css'
 import './css/fonts.css'
 
